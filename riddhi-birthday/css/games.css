@@ -1,0 +1,135 @@
+/* Four little birthday games, sharing one quiet arcade. */
+.games-content { width:min(100%,900px); margin:0 auto; }
+.games-header { max-width:610px; margin:0 auto 28px; }
+.games-header .eyebrow { letter-spacing:1.4px; }
+.games-header h1 { margin:16px 0 13px; color:#e1e0f6; font-size:clamp(33px,5vw,46px); line-height:1.16; }
+.games-header > p:last-child { max-width:490px; margin:auto; color:#b9cce4; font-size:18px; }
+.games-menu { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px; max-width:760px; margin:auto; }
+.game-tile { display:flex; flex-direction:column; align-items:flex-start; min-width:0; padding:28px; text-align:left; border-color:#b7cbea33; background:linear-gradient(135deg,#2836558a,#14233b99); box-shadow:inset 0 1px 0 #ffffff0b; transition:transform .2s ease; }
+.game-tile:hover:not(:disabled) { transform:translateY(-4px); border-color:var(--game-accent); }
+.game-tile:active:not(:disabled) { transform:scale(.98); }
+.game-tile-icon { display:grid; place-items:center; width:64px; height:64px; margin-bottom:21px; border:1px solid #bfceed26; border-radius:20px; background:#c7d7fd0b; font-size:35px; }
+.game-tile-title { color:var(--game-accent); font:500 27px/1.14 var(--font-h); }
+.game-tile-description { margin-top:11px; color:#c2d0e6; font-size:17px; line-height:1.5; }
+.game-tile-detail { margin:18px 0 21px; color:#9bafd0; font-size:16px; }
+.game-tile-action { display:flex; align-items:center; justify-content:space-between; gap:15px; width:100%; margin-top:auto; padding-top:15px; border-top:1px solid #bdd0ee20; color:var(--game-accent); font-size:16px; font-weight:800; }
+.game-tile-action > span { font-size:25px; line-height:1; }
+.game-tile.is-played { border-color:#d9c48869; }
+.games-footer { display:grid; justify-items:center; gap:4px; margin-top:24px; }
+.games-footer button { max-width:100%; }
+.games-stamp { max-width:480px; margin:0 auto 16px; color:#e4cfa3; font-size:16px; }
+.game-host { max-width:650px; margin:auto; }
+.game-panel { padding:24px; border-color:#b5c9ec35; background:linear-gradient(140deg,#23314caa,#11223bb8); }
+.game-toolbar { display:flex; align-items:center; flex-wrap:wrap; gap:10px; padding-bottom:20px; border-bottom:1px solid #bad1f122; }
+.game-toolbar > span { font-size:27px; }
+.game-toolbar h2 { flex:1; min-width:160px; color:#dce7fa; text-align:left; font-size:26px; line-height:1.2; outline:none; }
+.game-toolbar .secondary-button { flex:none; margin:0 0 0 auto; padding:9px 12px; font-size:16px; }
+.game-body { padding-top:21px; }
+.game-hint { max-width:490px; margin:0 auto 22px; color:#b9cde6; font-size:16px; }
+.game-result { padding:32px 28px; background:linear-gradient(140deg,#28354dba,#14223ebf); }
+.game-result-icon { display:block; margin-bottom:21px; font-size:53px; }
+.game-result .eyebrow { color:#c6cfdd; letter-spacing:1px; font-size:16px; }
+.game-result h2 { max-width:500px; margin:17px auto; color:#ecddbd; font-size:clamp(27px,4vw,34px); line-height:1.25; outline:none; }
+.game-result > p:not(.eyebrow) { color:#b9cde6; font-size:17px; }
+.game-result > .game-result-stamp { margin:19px auto 24px; color:#dac897; font-size:16px; }
+.game-result button { max-width:100%; }
+
+/* Photo pairs retain distinct symbols while personal photos are being added. */
+.match-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; max-width:550px; margin:auto; }
+.match-card { display:block; min-width:0; min-height:0; aspect-ratio:4/5; padding:0; border-radius:16px; background:transparent; perspective:800px; -webkit-perspective:800px; }
+.match-card:disabled { opacity:1; }
+.match-rotator { display:grid; width:100%; height:100%; transform-style:preserve-3d; -webkit-transform-style:preserve-3d; }
+.match-face { grid-area:1/1; position:relative; display:grid; place-items:center; width:100%; height:100%; overflow:hidden; border:1px solid #acc6ec50; border-radius:16px; backface-visibility:hidden; -webkit-backface-visibility:hidden; }
+.match-back { transform:rotateY(0deg); background:radial-gradient(circle at 30% 20%,#94c4f322,transparent 75%),linear-gradient(135deg,#273d5f,#182c48); }
+.match-back::before { content:''; position:absolute; inset:8px; border:1px solid #adc9e72b; border-radius:10px; }
+.match-back > span { font-size:35px; opacity:.7; }
+.match-front { transform:rotateY(180deg); background:linear-gradient(145deg,#294065,#1e2f4d); }
+.match-photo { position:absolute; inset:0; overflow:hidden; }
+.match-photo .memory-photo-image { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.match-photo .memory-photo-placeholder { display:none; }
+.match-symbol { position:relative; display:grid; place-items:center; width:57px; height:57px; font-size:38px; line-height:1; border-radius:50%; background:#0e1d36ae; }
+.match-photo.has-memory-photo + .match-symbol { align-self:end; justify-self:end; width:38px; height:38px; margin:5px; font-size:25px; }
+.match-card.is-matched .match-front { border-color:#ead392; box-shadow:inset 0 0 0 2px #e9d29255; }
+.match-progress { min-height:25px; margin-top:20px; color:#c2d9ef; font-size:16px; }
+
+/* The only continuous game animation runs inside this foreground canvas. */
+.catcher-legend { margin:-9px auto 20px; color:#d7e4f5; font-size:18px; white-space:pre-wrap; }
+.catcher-scoreboard { display:flex; justify-content:space-between; gap:12px; margin:0 2px 12px; color:#d6e4f6; font-size:18px; font-weight:800; font-variant-numeric:tabular-nums; }
+.catcher-time { color:#e4cda5; }
+.catcher-arena { position:relative; width:100%; overflow:hidden; border:1px solid #a7c6ee30; border-radius:20px; background:radial-gradient(ellipse at 50% 90%,#739ea027,transparent 64%),linear-gradient(180deg,#0d1a32,#182e48); }
+.catcher-arena canvas { display:block; width:100%; height:clamp(285px,54vw,370px); touch-action:none; outline-offset:-4px; }
+.catcher-overlay { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:19px; padding:24px; background:#10213bdc; pointer-events:none; }
+.catcher-overlay > span { font-size:58px; }
+.catcher-overlay > p { max-width:300px; color:#c7dcf3; font-size:18px; }
+.catcher-controls { display:flex; align-items:center; justify-content:center; gap:12px; margin-top:17px; }
+.catcher-arrow { display:grid; place-items:center; flex:0 0 52px; width:52px; height:52px; border:1px solid #b8ccef3b; border-radius:50%; background:#b5cee60d; font-size:28px; touch-action:none; }
+.catcher-arrow:active { background:#aac8ef26; }
+.catcher-toggle { flex:1; min-height:52px; padding:12px 17px; font-size:16px; }
+
+/* Every quiz answer belongs in this birthday story. */
+.quiz-progress { margin:1px auto 19px; color:#a6bad9; font-size:16px; }
+.quiz-question h3 { max-width:480px; margin:0 auto 24px; color:#e5dcee; font-size:clamp(25px,4vw,31px); line-height:1.25; outline:none; }
+.quiz-options { display:grid; gap:12px; max-width:470px; margin:auto; }
+.quiz-option { display:flex; align-items:center; gap:14px; width:100%; padding:14px 18px; border:1px solid #b9c9ed35; border-radius:17px; background:#c0d4f90a; color:#d4e1f3; font-size:18px; text-align:left; }
+.quiz-option > span { display:grid; place-items:center; flex:0 0 32px; width:32px; height:32px; border:1px solid #bfd0ec29; border-radius:50%; color:#a9bdd9; font-size:16px; }
+.quiz-option:hover:not(:disabled) { border-color:#d2c4e77a; background:#c7caec14; }
+.quiz-option.is-correct { border-color:#afe4bd9c; background:#80c69819; color:#d7f8e0; }
+.quiz-option.is-close { border-color:#e6c49775; background:#debb8b0e; color:#f0dcc1; }
+.quiz-feedback { min-height:28px; margin:20px auto 16px; color:#e2c99f; font-size:18px; }
+.quiz-next { max-width:100%; font-size:17px; }
+
+/* Eight wedges, six promises, and a fixed gold pointer. */
+.birthday-wheel { position:relative; width:min(100%,390px); margin:0 auto; touch-action:pan-y; }
+.wheel-disc { display:block; width:100%; height:auto; overflow:visible; transform-origin:50% 50%; cursor:grab; }
+.wheel-disc:active { cursor:grabbing; }
+.wheel-disc text { fill:#213049; font:800 16px Nunito,sans-serif; }
+.wheel-disc .wheel-centre { fill:#e4d29e; font:30px "Segoe UI Emoji",sans-serif; }
+.wheel-pointer { position:absolute; z-index:2; top:-7px; left:calc(50% - 16px); width:32px; color:#ffe1a4; font-size:34px; line-height:1; text-shadow:0 3px 5px #0b153a; pointer-events:none; }
+.wheel-status { min-height:26px; margin:17px auto; color:#d6c7e7; font-size:16px; }
+.wheel-spin { max-width:100%; }
+.wheel-spin:disabled { opacity:.6; }
+
+@media (max-width:640px) {
+  .games-header { margin-bottom:24px; }
+  .games-header .eyebrow { letter-spacing:.3px; }
+  .games-header > p:last-child { font-size:16px; }
+  .games-menu { gap:14px; }
+  .game-tile { padding:21px 17px; }
+  .game-tile-icon { width:54px; height:54px; margin-bottom:17px; font-size:30px; border-radius:16px; }
+  .game-tile-title { font-size:24px; }
+  .game-tile-description { font-size:16px; }
+  .game-tile-detail { margin-top:15px; line-height:1.4; }
+  .game-panel { padding:19px 16px; }
+  .game-toolbar { gap:9px; padding-bottom:13px; }
+  .game-toolbar h2 { font-size:24px; min-width:130px; }
+  .game-toolbar .secondary-button { padding:8px 5px; }
+  .match-grid { gap:9px; }
+  .match-back > span { font-size:27px; }
+  .match-symbol { width:44px; height:44px; font-size:29px; }
+  .match-face, .match-card { border-radius:12px; }
+  .match-photo.has-memory-photo + .match-symbol { width:29px; height:29px; font-size:20px; margin:3px; }
+  .catcher-controls { gap:8px; flex-wrap:wrap; }
+  .catcher-toggle { order:3; flex:1 0 100%; }
+  .catcher-arrow { flex-basis:calc(50% - 4px); border-radius:15px; }
+  .catcher-legend { font-size:16px; }
+  .catcher-scoreboard { font-size:16px; }
+  .quiz-option { padding:13px 14px; font-size:17px; }
+  .game-result { padding:28px 20px; }
+  .game-result .primary-button, .games-footer .primary-button { font-size:16px; padding:14px 21px; }
+  .wheel-disc text { font-size:18px; }
+}
+@media (max-width:430px) {
+  .games-menu { grid-template-columns:1fr; }
+  .game-tile { display:grid; grid-template-columns:57px minmax(0,1fr); column-gap:17px; padding:24px; }
+  .game-tile-icon { grid-column:1; grid-row:1/3; margin:0; }
+  .game-tile-title, .game-tile-description { grid-column:2; }
+  .game-tile-description { margin-top:7px; }
+  .game-tile-detail, .game-tile-action { grid-column:1/-1; }
+  .game-tile-detail { margin:18px 0 15px; }
+  .match-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .wheel-disc text { font-size:20px; }
+}
+@media (prefers-reduced-motion:reduce) {
+  .game-tile { transition:none; }
+  .game-tile:hover:not(:disabled) { transform:none; }
+}

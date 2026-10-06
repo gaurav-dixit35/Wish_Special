@@ -1,0 +1,194 @@
+[
+  {
+    "i": 1,
+    "page": "https://freesvg.org/1531931706",
+    "src": "https://freesvg.org/img/1531931706.png",
+    "title": "cute sitting puppy",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 110737,
+    "domain": true,
+    "file": "dog-01.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "4d41515bfe942b3fe972c1784221c6c6fdb295cf72a0c9243c216c3d872ff3ee",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 2,
+    "page": "https://freesvg.org/dotty-dog",
+    "src": "https://freesvg.org/img/SPOT-1.png",
+    "title": "Dotty dog",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 51574,
+    "domain": true,
+    "file": "dog-02.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "76780a104f875195aa2d710f816e08a332fc4c991280677926d89747845c33b7",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 3,
+    "page": "https://freesvg.org/brown-doggy",
+    "src": "https://freesvg.org/img/SPOT-2.png",
+    "title": "Brown doggy",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 50862,
+    "domain": true,
+    "file": "dog-03.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "405e3d613300a2334028dad1ad93923ead34844c62c04e1fdf46b557da514768",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 4,
+    "page": "https://freesvg.org/dotty-puppy",
+    "src": "https://freesvg.org/img/SPOT-4.png",
+    "title": "Dotty puppy",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 51022,
+    "domain": true,
+    "file": "dog-04.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "92533d8009dfc538ca30e6a5115375bc9664458c58d1cade89bd58ffb663811e",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 5,
+    "page": "https://freesvg.org/dotty-dog-1631958619",
+    "src": "https://freesvg.org/img/Spot-9.png",
+    "title": "Dotty dog-1631958619",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 58634,
+    "domain": true,
+    "file": "dog-05.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "e284a712bed2dfcfd87085292ebf5b986d0cfd1f6892edf84e5b90112288ef8a",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 6,
+    "page": "https://freesvg.org/happy-puppy",
+    "src": "https://freesvg.org/img/Happy-Puppy.png",
+    "title": "Happy Puppy",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 63318,
+    "domain": true,
+    "file": "dog-06.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "b1a547bd1eb8ffc3b2cbf274d506bca61d56a1f977b5119e265a38e063bb4d51",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 8,
+    "page": "https://freesvg.org/1536016776",
+    "src": "https://freesvg.org/img/1536016776.png",
+    "title": "Cartoon Dog Portrait",
+    "size": [
+      600,
+      600
+    ],
+    "mode": "RGBA",
+    "bytes": 77314,
+    "domain": true,
+    "file": "dog-07.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "a85675ec26bd35cd50aa12f1160370c03ecfd68d7f557a3bffbd15ee05414126",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 9,
+    "page": "https://freesvg.org/little-dog",
+    "src": "https://freesvg.org/img/little-dog.png",
+    "title": "little dog",
+    "file": "dog-08.png",
+    "bytes": 39875,
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "8f3bdff9b74606b449bc398bd0740a39bf735191d407ee40b3b7b3f69e79f3ef",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 11,
+    "page": "https://freesvg.org/dog002",
+    "src": "https://freesvg.org/img/dog002.png",
+    "title": "sleepydog001",
+    "file": "dog-09.png",
+    "bytes": 31780,
+    "dimensions": [
+      400,
+      400
+    ],
+    "sha256": "d865aa408e40827360fd3b2cdbfb0a2ebf53f825e2242d4f1bb22883a946eb50",
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "i": 13,
+    "page": "https://freesvg.org/blue-puppy-toy",
+    "src": "https://freesvg.org/img/cubimal-npc-snoconevendor.png",
+    "title": "Blue puppy toy",
+    "file": "dog-10.png",
+    "dimensions": [
+      400,
+      400
+    ],
+    "license": "CC0 1.0 / Public Domain",
+    "retrieved": "2026-10-04",
+    "bytes": 47413,
+    "sha256": "21a6c04375068872d72335751e4575fab9d5235d3b148f172c8613c2f372ecd1"
+  }
+]

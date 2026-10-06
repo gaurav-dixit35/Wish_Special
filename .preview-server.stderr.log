@@ -1,0 +1,1218 @@
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /?preview=1&scene=voice HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/tokens.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/chapters.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/cards.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/memories.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/lightbox.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/games.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/vouchers.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:05] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/state.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/preloader.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/aurora.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/stars.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/sky-layout.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/chapters/c00-lock.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/wish.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/confetti.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:06] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c01-loader.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c02-entrance.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c03-identity.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c05-wish.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c04-cake.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c07-cards.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c08-memories.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/chapters/c11-eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/modal.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/timelock.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:07] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/cake-art.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/photos.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/mic.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/lightbox.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/games.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /js/scratch.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /others/photos/01-same-bus.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:08] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:08] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/04-sgnp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/06-genai.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/09-hackathon.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/10-gifts.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/08-synapse.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:09] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:09] "GET /others/photos/extra-01.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:10] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:10] "GET /others/photos/extra-02.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:10] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:10] "GET /others/photos/extra-03.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:10] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:10] "GET /others/photos/extra-05.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:10] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:10] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:10] "GET /others/photos/extra-04.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:10] "GET /others/photos/extra-06.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:10] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:10] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-10.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:11] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:11] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /?preview=1&scene=voice HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/tokens.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/cards.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/chapters.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/memories.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/lightbox.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/vouchers.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/games.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/state.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/preloader.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/stars.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/aurora.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/wish.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/confetti.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c00-lock.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c01-loader.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c02-entrance.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c03-identity.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c04-cake.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c05-wish.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c08-memories.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c07-cards.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c11-eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/timelock.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/cake-art.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/mic.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/01-same-bus.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/04-sgnp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/06-genai.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/08-synapse.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/10-gifts.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/extra-01.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/09-hackathon.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/extra-02.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/extra-03.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/extra-04.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/extra-06.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /others/photos/extra-05.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:13:14] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:13:14] "GET /dogs/dog-10.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/01-same-bus.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/04-sgnp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/06-genai.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/09-hackathon.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/08-synapse.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:06] "GET /others/photos/10-gifts.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /others/photos/extra-01.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /others/photos/extra-04.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /others/photos/extra-03.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /others/photos/extra-02.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /others/photos/extra-05.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /others/photos/extra-06.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:07] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:07] "GET /dogs/dog-10.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/01-same-bus.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/04-sgnp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/06-genai.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/08-synapse.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/09-hackathon.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/10-gifts.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/extra-02.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/extra-03.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/extra-01.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/extra-05.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/extra-04.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /others/photos/extra-06.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 20:23:15] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 20:23:15] "GET /dogs/dog-10.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /?preview=1&scene=voice HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /css/voice.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /css/letter.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /css/finale.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /css/animations.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:38] "GET /js/config.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/audio.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/stars.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/sky-layout.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/hud.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/chapters/c06-balloons.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/chapters/c05-wish.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/chapters/c09-games.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/chapters/c12-voice.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/chapters/c14-finale.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/chapters/c13-letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/voice-player.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/modal.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/certificate.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /js/letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/01-same-bus.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/04-sgnp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/06-genai.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/08-synapse.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/09-hackathon.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/10-gifts.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/extra-02.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/extra-03.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/extra-01.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/extra-05.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/extra-04.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /others/photos/extra-06.webp HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-10.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 22:09:39] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 22:09:39] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /?preview=1&scene=memories HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/birthday-tune.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/pop.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/sparkle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/blow.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/match.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/whoosh.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/whistle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/voice/voice-note.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /audio/snore.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/voice/secret.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:22:43] "GET /dogs/dog-10.png HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /?preview=1&scene=memories HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/birthday-tune.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/pop.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/sparkle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/whoosh.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/blow.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/match.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/whistle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /audio/snore.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/voice/voice-note.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/voice/secret.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:24:41] "GET /dogs/dog-10.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /?preview=1&scene=memories HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/birthday-tune.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/pop.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/sparkle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/whoosh.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/blow.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/match.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/whistle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /audio/snore.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/voice/voice-note.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/voice/secret.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:17] "GET /dogs/dog-10.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /?preview=1&scene=secrets HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /css/letter.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /js/chapters/c13-letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /dogs/dog-10.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:26:30] "GET /dogs/dog-01.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /?preview=1&scene=memories HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/birthday-tune.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/whoosh.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/match.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/sparkle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/blow.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/pop.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:27:46] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/voice/secret.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/snore.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /audio/whistle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/voice/voice-note.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:27:46] "GET /dogs/dog-10.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:28:01] "GET /?preview=1&scene=secrets HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:28:01] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:01] "GET /css/letter.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:01] "GET /js/chapters/c13-letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:01] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /?preview=1&scene=happiness HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /css/letter.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /js/chapters/c13-letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-01.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-02.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-03.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-04.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-05.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-06.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-07.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-08.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-09.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:28:26] "GET /dogs/dog-10.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /?preview=1&scene=memories HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:05] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/birthday-tune.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/pop.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/whoosh.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/sparkle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/match.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/blow.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/whistle.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /audio/snore.mp3 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/voice/voice-note.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] code 404, message File not found
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/voice/secret.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:06] "GET /dogs/dog-10.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:19] "GET /?preview=1&scene=secrets HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:19] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:19] "GET /js/hud.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /?preview=1&scene=happiness HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /css/letter.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /js/hud.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /js/chapters/c13-letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /dogs/dog-01.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:44] "GET /dogs/dog-10.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:48] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:48] "GET /js/hud.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-02.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-03.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-04.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-05.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-06.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-07.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-08.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:30:49] "GET /dogs/dog-09.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /?preview=1&scene=happiness HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/games.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/vouchers.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/voice.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /css/animations.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:15] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/audio.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/stars.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/sky-layout.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c05-wish.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c06-balloons.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c08-memories.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c09-games.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c07-cards.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c12-voice.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:16] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/modal.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/voice-player.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/scratch.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/games.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /js/certificate.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:17] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:18] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:19] "GET /dogs/dog-10.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /?preview=1&scene=happiness HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/voice.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/games.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/vouchers.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/animations.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/audio.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c06-balloons.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c07-cards.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c09-games.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c08-memories.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c12-voice.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/voice-player.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/scratch.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/certificate.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/games.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:28] "GET /js/letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:45] "GET /?preview=1&scene=happiness HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:46] "GET /?preview=1&scene=happiness HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:33:59] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /?preview=1&scene=happiness HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:04] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:34:05] "GET /dogs/dog-10.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:56:25] "GET /?preview=1&scene=happiness HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /css/eggs.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /css/letter.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /css/finale.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /css/happiness.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/chapters/c11-eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/config.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/chapters/c13-letter.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/eggs.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/hud.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/chapters/c14-finale.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/chapters/c15-happiness.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/dog.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:26] "GET /js/happiness-copy.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/01-same-bus.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/04-sgnp.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/06-genai.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/08-symposium.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/09-matheran.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/10-ganpati.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/extra-01.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:27] "GET /others/photos/extra-02.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /others/photos/extra-03.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /others/photos/extra-04.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /others/photos/extra-05.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /others/photos/extra-06.webp HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-01.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-02.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-03.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-04.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-05.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-06.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-07.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-08.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-09.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:56:28] "GET /dogs/dog-10.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /?preview=1&scene=happiness HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/cards.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/memories.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/lightbox.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/vouchers.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/games.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/eggs.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/voice.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/letter.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/finale.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/happiness.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/sky-layout.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/confetti.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c02-entrance.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c03-identity.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c04-cake.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c06-balloons.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c05-wish.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c07-cards.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c08-memories.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c09-games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c10-vouchers.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c11-eggs.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c12-voice.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c14-finale.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c15-happiness.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/chapters/c13-letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/dog.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/voice-player.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/modal.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/mic.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/cake-art.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/photos.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/lightbox.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/scratch.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/games.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/certificate.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/happiness-copy.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /js/letter.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/01-same-bus.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/04-sgnp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/06-genai.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/08-symposium.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/09-matheran.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/10-ganpati.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/extra-01.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/extra-02.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/extra-03.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/extra-04.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/extra-05.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /others/photos/extra-06.webp HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-01.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-02.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-03.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-04.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-05.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-06.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-08.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-07.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-09.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2026 23:57:08] "GET /dogs/dog-10.png HTTP/1.1" 200 -

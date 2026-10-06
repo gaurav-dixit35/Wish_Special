@@ -1,0 +1,89 @@
+127.0.0.1 - - [02/Oct/2026 10:38:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:39] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /?preview=1 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /css/tokens.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /css/animations.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /css/base.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /css/chapters.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:55] "GET /js/config.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/stars.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/state.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/preloader.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/aurora.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/audio.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/chapters/c00-lock.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/chapters/c01-loader.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /js/timelock.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /audio/pop.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /audio/whoosh.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:56] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /audio/birthday-tune.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /audio/blow.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /audio/match.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:56] "GET /audio/sparkle.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /audio/snore.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /audio/whistle.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/voice/voice-note.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/voice/secret.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/01-same-bus.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/02-kernala-fort.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/03-traditional-day.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/04-sgnp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/05-ide-bootcamp.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/06-genai.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/07-aavishkar.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/08-synapse.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/09-hackathon.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/extra-01.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/10-gifts.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/extra-03.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/extra-04.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:57] "GET /others/photos/extra-02.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /others/photos/extra-05.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /others/photos/extra-06.webp HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-01.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-02.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-03.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-04.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-05.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-06.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-07.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-08.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] code 404, message File not found
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-09.png HTTP/1.1" 404 -
+127.0.0.1 - - [02/Oct/2026 10:38:58] "GET /dogs/dog-10.png HTTP/1.1" 404 -

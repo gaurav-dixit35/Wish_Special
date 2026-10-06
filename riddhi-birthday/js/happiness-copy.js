@@ -1,0 +1,23 @@
+// The final candle is a personal birthday moment, separate from the keepsake.
+export const happinessCopy = Object.freeze({
+  certificateBridge: 'Keep this little memory. There is one more light waiting just for you.',
+  certificateNext: 'One last birthday wish',
+  eyebrow: 'ONE LAST LITTLE LIGHT',
+  title: 'Light the candle of your happiness.',
+  intro: 'For the little joys, the big dreams, and every beautiful thing still on its way to you.',
+  candleLabel: 'Your happiness candle, {name}. A blue lantern with a golden heart, waiting to be lit.',
+  candleLitLabel: 'Your blue and gold happiness candle is glowing.',
+  candleSkyLabel: 'Your glowing blue and gold candle has joined a sky of warm birthday lights.',
+  candleName: 'Only yours',
+  light: 'Light my candle',
+  lighting: 'A little light, for all your happiness.',
+  rising: 'Up it goes. May your happiness always find its way to the stars.',
+  finishedEyebrow: 'THE WHOLE SKY IS CELEBRATING YOU',
+  finishedTitle: 'Happy Birthday, Miss Barbie!',
+  finishedIntro: 'May your days be full of little wonders, loud laughter, and people who make your heart feel at home.',
+  finishedStatus: 'Your candle is shining among the stars. Happy Birthday, Miss Barbie!',
+  signature: 'Always cheering for you,',
+  signer: 'Your Bandar 🐒💙',
+  replay: 'Replay my birthday world',
+  back: 'Back to my certificate',
+});

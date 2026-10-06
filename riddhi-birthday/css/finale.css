@@ -1,0 +1,76 @@
+.finale-world { position:relative; isolation:isolate; overflow:hidden; padding-bottom:175px; }
+.finale-content { position:relative; z-index:2; width:min(100%,900px); margin:auto; }
+.finale-title { font-size:clamp(38px,5.8vw,66px); line-height:1.12; letter-spacing:-1.3px; max-width:800px; margin:20px auto 17px; }
+.finale-intro { max-width:580px; color:#bacdea; font-size:18px; margin:0 auto 38px; }
+.birthday-certificate { position:relative; isolation:isolate; overflow:hidden; width:min(100%,760px); padding:38px 38px 32px; margin:0 auto; color:#283f61; background:linear-gradient(130deg,#edf3f8,#fffaf0 54%,#f0edf7); border:5px solid #c8a866; outline:1px solid #e7d4ad; outline-offset:-12px; border-radius:5px; box-shadow:0 24px 80px #0005; }
+.certificate-corners { position:absolute; z-index:-1; inset:20px; border:1px solid #c5cddb; pointer-events:none; }
+.certificate-eyebrow { font-size:16px; color:#697a92; letter-spacing:2.5px; text-transform:uppercase; font-weight:800; }
+.birthday-certificate h2 { font-size:clamp(30px,4vw,44px); line-height:1.15; margin:12px 0 8px; }
+.certificate-subtitle { font-size:16px; color:#60718b; }
+.certificate-seal { width:64px; height:64px; border:1px solid #9fb8d2; background:#e4ebf5; border-radius:50%; display:grid; place-items:center; margin:22px auto 15px; color:#3d719e; }
+.certificate-seal svg { width:39px; height:39px; fill:currentColor; }
+.certificate-name { font:500 clamp(33px,5vw,51px)/1.2 var(--font-h); overflow-wrap:anywhere; }
+.certificate-age { font-size:17px; color:#896a2c; font-weight:800; margin-top:8px; }
+.certificate-copy { max-width:535px; margin:21px auto 16px; font-size:17px; line-height:1.7; user-select:text; }
+.certificate-date { color:#657794; font-size:16px; font-weight:800; }
+.certificate-keepsakes { padding-top:21px; margin:24px auto 0; border-top:1px solid #c4cedd; max-width:540px; color:#60738e; font-size:16px; }
+.certificate-paws { list-style:none; padding:0; margin:19px auto 16px; display:flex; justify-content:center; gap:14px; }
+.certificate-paws li { width:36px; height:36px; flex:none; color:#abb1bc; background:#e6e8eb; border-radius:50%; display:grid; place-items:center; }
+.certificate-paws li.is-earned { color:#3e719c; background:#dceafa; }
+.certificate-paws svg { width:28px; height:28px; fill:currentColor; }
+.certificate-progress { color:#394e6d; font-weight:800; }
+.certificate-gold { font-family:var(--font-h); font-size:19px; margin-top:8px; color:#74779b; }
+.birthday-certificate.is-gold .certificate-gold { color:#876420; }
+.birthday-certificate.is-gold .certificate-seal { color:#947023; background:#f6e7b9; border-color:#b9903a; }
+.birthday-certificate.is-gold .certificate-paws li.is-earned { color:#9b772d; background:#f2e4bc; }
+.finale-save { display:grid; justify-items:center; gap:12px; margin:29px auto 0; }
+.finale-save .primary-button { max-width:100%; }
+.certificate-export-status:empty { display:none; }
+.certificate-export-status { color:var(--sky); font-size:16px; max-width:540px; }
+.certificate-open { margin:0; color:var(--gold); text-decoration:underline; text-underline-offset:5px; }
+.certificate-save-hint { max-width:490px; font-size:16px; color:#a9bedf; }
+.finale-last { margin:43px auto 14px; font:500 clamp(29px,4vw,42px)/1.3 var(--font-h); color:var(--gold); }
+.finale-afterword { color:#b9ccec; font-size:18px; max-width:530px; margin:auto; }
+.finale-actions { display:flex; flex-wrap:wrap; justify-content:center; gap:8px 18px; margin-top:17px; }
+.finale-actions .secondary-button { margin:0; }
+.finale-bridge { margin-top:35px; }
+.finale-actions:has([data-testid="finale-next"]) { max-width:580px; margin:22px auto 0; }
+.finale-actions [data-testid="finale-next"] { flex-basis:100%; max-width:350px; margin:0 calc((100% - min(100%,350px)) / 2) 6px; }
+.finale-lanterns { position:absolute; z-index:0; inset:0; pointer-events:none; overflow:hidden; }
+.finale-lantern-flight { position:absolute; left:var(--lantern-left); bottom:-130px; opacity:0; animation:birthday-lantern-rise 14s linear var(--lantern-delay) both; animation-play-state:paused; }
+.finale-lantern { width:75px; height:103px; border-radius:35% 35% 16% 16%; border:1px solid #ffcd7f80; background:radial-gradient(ellipse at 50% 83%,#fff4b9,#f7b65a88 30%,#eb866033 70%); box-shadow:0 0 24px #ffb04c24,inset 0 0 18px #ffcf8540; transform-origin:50% 85%; animation:birthday-lantern-sway 3s ease-in-out infinite alternate; animation-play-state:paused; }
+.finale-lantern::before { content:''; position:absolute; left:12%; right:12%; bottom:5px; height:7px; border:1px solid #edc588aa; border-radius:50%; }
+.finale-lantern i { position:absolute; left:calc(50% - 5px); bottom:15px; width:10px; height:15px; border-radius:60% 30% 60% 35%; background:#ffedba; box-shadow:0 0 17px #ffbf5b; }
+.finale-lantern-flight.has-risen { display:none; }
+.finale-dog-parade { position:absolute; z-index:1; left:0; right:0; bottom:8px; height:145px; overflow:hidden; pointer-events:none; border-bottom:1px solid #9fd0ff16; }
+.finale-dog-carriage { position:absolute; left:0; bottom:3px; width:110px; animation:birthday-dog-parade 24s linear var(--parade-delay) infinite; animation-play-state:paused; }
+.birthday-dog.finale-parade-dog { width:106px; }
+.finale-parade-dog .dog-placeholder { font-size:77px; }
+.finale-world:not(.is-celebrating) .dog-movement, .finale-world:not(.is-celebrating) .dog-wobble { animation-play-state:paused; }
+.finale-world.is-celebrating .finale-lantern-flight, .finale-world.is-celebrating .finale-lantern, .finale-world.is-celebrating .finale-dog-carriage { animation-play-state:running; }
+.finale-world.finale-paused .finale-lantern-flight, .finale-world.finale-paused .finale-lantern, .finale-world.finale-paused .finale-dog-carriage, .finale-world.finale-paused .dog-movement, .finale-world.finale-paused .dog-wobble { animation-play-state:paused; }
+@keyframes birthday-lantern-rise { 0% { transform:translateY(0) scale(var(--lantern-scale)); opacity:0; } 8% { opacity:.8; } 85% { opacity:.6; } 100% { transform:translateY(-2000px) scale(var(--lantern-scale)); opacity:0; } }
+@keyframes birthday-lantern-sway { from { transform:translateX(-12px) rotate(-5deg); } to { transform:translateX(12px) rotate(5deg); } }
+@keyframes birthday-dog-parade { from { transform:translateX(-130px); } to { transform:translateX(calc(100vw + 130px)); } }
+@media (max-width:640px) {
+  .finale-world { padding-bottom:150px; }
+  .finale-intro { font-size:17px; margin-bottom:28px; }
+  .birthday-certificate { padding:30px 20px 26px; border-width:3px; }
+  .certificate-corners { inset:16px; }
+  .certificate-eyebrow { letter-spacing:1px; }
+  .certificate-copy { font-size:16px; }
+  .certificate-paws { gap:4px; }
+  .certificate-paws li { width:25px; height:28px; }
+  .certificate-paws svg { width:22px; height:22px; }
+  .certificate-keepsakes { margin-top:20px; }
+  .finale-dog-parade { height:125px; }
+  .birthday-dog.finale-parade-dog { width:85px; }
+  .finale-parade-dog .dog-placeholder { font-size:64px; }
+}
+@media (prefers-reduced-motion:reduce) {
+  .finale-lantern-flight { animation:none; bottom:auto; top:calc(7% + var(--lantern-scale) * 40%); opacity:.22; transform:scale(var(--lantern-scale)); }
+  .finale-lantern { animation:none; }
+  .finale-dog-carriage { animation:none; left:var(--resting-left); transform:translateX(-20%); }
+  .birthday-dog.finale-parade-dog { width:clamp(43px,11vw,85px); }
+  .finale-parade-dog .dog-placeholder { font-size:clamp(37px,9vw,64px); }
+}

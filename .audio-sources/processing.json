@@ -1,0 +1,122 @@
+[
+  {
+    "file": "birthday-tune.mp3",
+    "bytes": 631236,
+    "duration": 31.5,
+    "filter": "volume=-2dB,afade=t=in:d=0.04,afade=t=out:st=30.7:d=0.8",
+    "source": "acoustic-guitar.mp3",
+    "start": 0.25,
+    "channels": 2,
+    "kbps": 160,
+    "validation": [
+      "Duration: 00:00:31.53, start: 0.025057, bitrate: 160 kb/s",
+      "[Parsed_volumedetect_0 @ 000001d6db0ae440] mean_volume: -24.2 dB",
+      "[Parsed_volumedetect_0 @ 000001d6db0ae440] max_volume: -3.3 dB"
+    ]
+  },
+  {
+    "file": "pop.mp3",
+    "bytes": 5123,
+    "duration": 0.34,
+    "filter": "afade=t=in:d=0.006,afade=t=out:st=0.30:d=0.04",
+    "source": "pop-source.mp3",
+    "start": 0.16,
+    "channels": 1,
+    "kbps": 96,
+    "validation": [
+      "Duration: 00:00:00.39, start: 0.025057, bitrate: 104 kb/s",
+      "[Parsed_volumedetect_0 @ 0000024d9354d0c0] mean_volume: -22.5 dB",
+      "[Parsed_volumedetect_0 @ 0000024d9354d0c0] max_volume: -6.4 dB"
+    ]
+  },
+  {
+    "file": "whoosh.mp3",
+    "bytes": 6066,
+    "duration": 0.426,
+    "filter": "volume=-5.4dB,afade=t=in:d=0.006,afade=t=out:st=0.39:d=0.036",
+    "source": "whoosh-source.mp3",
+    "start": 0,
+    "channels": 1,
+    "kbps": 96,
+    "validation": [
+      "Duration: 00:00:00.47, start: 0.025057, bitrate: 103 kb/s",
+      "[Parsed_volumedetect_0 @ 0000021173586b00] mean_volume: -24.0 dB",
+      "[Parsed_volumedetect_0 @ 0000021173586b00] max_volume: -7.7 dB"
+    ]
+  },
+  {
+    "file": "sparkle.mp3",
+    "bytes": 44414,
+    "duration": 2.7,
+    "filter": "volume=2.2dB,afade=t=in:d=0.006,afade=t=out:st=2.5:d=0.2",
+    "source": "sparkle-source.mp3",
+    "start": 0,
+    "channels": 2,
+    "kbps": 128,
+    "validation": [
+      "Duration: 00:00:02.74, start: 0.025057, bitrate: 129 kb/s",
+      "[Parsed_volumedetect_0 @ 000001c0fb2b6b00] mean_volume: -25.1 dB",
+      "[Parsed_volumedetect_0 @ 000001c0fb2b6b00] max_volume: -6.5 dB"
+    ]
+  },
+  {
+    "file": "blow.mp3",
+    "bytes": 10453,
+    "duration": 0.8,
+    "filter": "highpass=f=100,lowpass=f=7000,volume=-7dB,afade=t=in:d=0.02,afade=t=out:st=0.64:d=0.16",
+    "source": "blow-source.mp3",
+    "start": 1.27,
+    "channels": 1,
+    "kbps": 96,
+    "validation": [
+      "Duration: 00:00:00.84, start: 0.025057, bitrate: 100 kb/s",
+      "[Parsed_volumedetect_0 @ 000001f022b7c440] mean_volume: -25.3 dB",
+      "[Parsed_volumedetect_0 @ 000001f022b7c440] max_volume: -9.6 dB"
+    ]
+  },
+  {
+    "file": "match.mp3",
+    "bytes": 7319,
+    "duration": 0.54,
+    "filter": "volume=-7dB,afade=t=in:d=0.005,afade=t=out:st=0.48:d=0.06",
+    "source": "interface/Audio/confirmation_002.ogg",
+    "start": 0,
+    "channels": 1,
+    "kbps": 96,
+    "validation": [
+      "Duration: 00:00:00.57, start: 0.025057, bitrate: 101 kb/s",
+      "[Parsed_volumedetect_0 @ 000001333aeb8c40] mean_volume: -22.7 dB",
+      "[Parsed_volumedetect_0 @ 000001333aeb8c40] max_volume: -9.0 dB"
+    ]
+  },
+  {
+    "file": "whistle.mp3",
+    "bytes": 17666,
+    "duration": 1.4,
+    "filter": "volume=0.6dB,afade=t=in:d=0.005,afade=t=out:st=1.25:d=0.15",
+    "source": "whistle-source.mp3",
+    "start": 0,
+    "channels": 1,
+    "kbps": 96,
+    "validation": [
+      "Duration: 00:00:01.44, start: 0.025057, bitrate: 98 kb/s",
+      "[Parsed_volumedetect_0 @ 0000015470b07a00] mean_volume: -18.7 dB",
+      "[Parsed_volumedetect_0 @ 0000015470b07a00] max_volume: -5.5 dB"
+    ]
+  },
+  {
+    "file": "snore.mp3",
+    "bytes": 49951,
+    "duration": 4.1,
+    "filter": "volume=7.8dB,afade=t=in:d=0.04,afade=t=out:st=3.9:d=0.2",
+    "source": "snore-source.mp3",
+    "start": 0.35,
+    "channels": 1,
+    "kbps": 96,
+    "validation": [
+      "Duration: 00:00:04.13, start: 0.025057, bitrate: 96 kb/s",
+      "[Parsed_volumedetect_0 @ 0000029ee86d6b00] mean_volume: -23.8 dB",
+      "[Parsed_volumedetect_0 @ 0000029ee86d6b00] max_volume: -6.5 dB"
+    ]
+  }
+]

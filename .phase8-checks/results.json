@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "label": "Memory photos / 390px",
+      "width": 390,
+      "scroll": 390,
+      "error": false,
+      "heading": "Some days stay with you."
+    },
+    {
+      "label": "Ganpati photo / 390px",
+      "width": 390,
+      "scroll": 390,
+      "error": false,
+      "heading": "Some days stay with you."
+    },
+    {
+      "label": "All five clues / 390px",
+      "width": 390,
+      "scroll": 390,
+      "error": false,
+      "heading": "Some magic hides in the tiniest things."
+    },
+    {
+      "label": "Updated full letter / 390px",
+      "width": 390,
+      "scroll": 390,
+      "error": false,
+      "heading": "Some things deserve a letter."
+    },
+    {
+      "label": "Certificate PNG",
+      "type": "image/png",
+      "width": 2400,
+      "height": 1800,
+      "size": 2387644
+    },
+    {
+      "label": "Candle ending / 390px",
+      "width": 390,
+      "scroll": 390,
+      "error": false,
+      "heading": "Happy Birthday, Miss Barbie!"
+    },
+    {
+      "label": "Candle ending / 320px reduced motion",
+      "width": 320,
+      "scroll": 320,
+      "error": false,
+      "heading": "Happy Birthday, Miss Barbie!"
+    },
+    {
+      "label": "Candle ending / 1440px",
+      "width": 1440,
+      "scroll": 1440,
+      "error": false,
+      "heading": "Happy Birthday, Miss Barbie!"
+    }
+  ]
+}

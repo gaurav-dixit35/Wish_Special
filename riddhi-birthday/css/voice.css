@@ -1,0 +1,62 @@
+/* One quiet recording between all the little birthday surprises. */
+.voice-content { width:min(100%,690px); min-width:0; margin:0 auto; }
+.voice-header { max-width:570px; margin:0 auto; }
+.voice-header h1 { margin:17px 0 15px; color:#e6def3; font-size:clamp(34px,5vw,45px); line-height:1.15; }
+.voice-header > p:last-child { max-width:450px; margin:0 auto; color:#b8cce5; font-size:18px; }
+.voice-card { position:relative; isolation:isolate; width:min(100%,535px); margin:76px auto 0; padding:45px 38px 28px; border-radius:30px; background:radial-gradient(ellipse at 50% 0,#b8a2df18,transparent 70%),linear-gradient(145deg,#1c2b49e6,#13223ee6); }
+.voice-card .voice-guide { top:-41px; }
+.voice-card-orbit { position:absolute; inset:13px; z-index:-1; border:1px solid #b6cbe912; border-radius:22px; pointer-events:none; }
+.voice-card-orbit i { position:absolute; width:4px; height:4px; border-radius:50%; background:#d5c298; box-shadow:0 0 8px #e7c99733; }
+.voice-card-orbit i:nth-child(1) { left:12%; top:11%; }
+.voice-card-orbit i:nth-child(2) { right:11%; top:31%; width:3px; height:3px; }
+.voice-card-orbit i:nth-child(3) { left:9%; bottom:16%; width:3px; height:3px; }
+.voice-dedication { margin:0 0 25px; color:#d9c298; font-size:16px; letter-spacing:1.2px; }
+.voice-track-number { margin:0 0 9px; color:#91a9ca; font-size:16px; }
+.voice-track-title { margin:0 auto 10px; color:#eae1f4; font:400 clamp(25px,4vw,31px)/1.2 var(--font-h); overflow-wrap:anywhere; }
+.voice-track-note { max-width:340px; margin:0 auto; color:#acc2df; font-size:16px; line-height:1.55; }
+.voice-player-well { position:relative; margin:24px 0 20px; padding:16px 18px 20px; border:1px solid #9fb8df1d; border-radius:22px; background:#07132935; }
+.voice-waveform { display:flex; align-items:center; justify-content:center; gap:4px; height:76px; overflow:hidden; }
+.voice-waveform i { display:block; width:5px; min-width:2px; height:var(--bar-h); border-radius:5px; background:linear-gradient(#e8c8e5,#9fc9e8); transform:scaleY(.15); transform-origin:center; }
+.voice-play { display:grid; place-items:center; width:82px; height:82px; margin:5px auto 0; padding:0; border:1px solid #decbef99; border-radius:50%; background:linear-gradient(145deg,#d2c1e7,#a3bedc); color:#22314d; box-shadow:inset 0 1px 0 #fff8,0 8px 22px #050c223b; transition:transform .2s ease; }
+.voice-play:hover:not(:disabled) { transform:scale(1.055); }
+.voice-play:active:not(:disabled) { transform:scale(.96); }
+.voice-play:disabled { opacity:.45; }
+.voice-play svg { width:42px; height:42px; fill:currentColor; }
+.voice-pause-icon, .voice-play[aria-pressed="true"] .voice-play-icon { display:none; }
+.voice-play[aria-pressed="true"] .voice-pause-icon { display:block; }
+.voice-button-label { margin:11px 0 20px; color:#d7d6e9; font-size:16px; }
+.voice-timeline { display:flex; align-items:center; gap:11px; color:#9db3d2; font-size:16px; font-variant-numeric:tabular-nums; }
+.voice-timeline-track { position:relative; flex:1; height:3px; border-radius:4px; overflow:hidden; background:#8fa9d02e; }
+.voice-timeline-track i { position:absolute; inset:0; background:#dcc5e5; transform:scaleX(0); transform-origin:left center; }
+.voice-status { margin:0; color:#d7cbea; font-size:17px; line-height:1.5; }
+.voice-missing-note, .voice-muted-note { margin:12px auto 0; color:#aac1df; font-size:16px; line-height:1.55; }
+.voice-muted-note { color:#e1caa0; }
+.voice-headphones { margin:19px auto 0; color:#8fa8cb; font-size:16px; }
+.voice-transcript { margin:18px auto 0; border-top:1px solid #a9c1e02a; text-align:left; }
+.voice-transcript summary { display:list-item; min-height:48px; padding:14px 4px; color:#dacdea; font-size:16px; cursor:pointer; }
+.voice-transcript p { margin:0 4px 4px; color:#b7cbe4; font-size:16px; line-height:1.7; white-space:pre-wrap; overflow-wrap:anywhere; }
+.voice-playlist { display:grid; gap:10px; width:min(100%,535px); margin:20px auto 0; }
+.voice-playlist[hidden] { display:none; }
+.voice-track-choice { display:flex; align-items:center; gap:14px; min-height:72px; padding:12px 17px; border:1px solid #a9c1e02a; border-radius:18px; background:#15243e80; color:#b6cbe6; text-align:left; font-size:16px; }
+.voice-track-choice[aria-pressed="true"] { border-color:#dac2e86b; background:#b398d21a; color:#e3d5ef; }
+.voice-track-disc { display:grid; place-items:center; flex:none; width:42px; height:42px; border:1px solid #b8c6e23b; border-radius:50%; font-variant-numeric:tabular-nums; }
+.voice-track-choice > span:nth-child(2) { flex:1; overflow-wrap:anywhere; }
+.voice-track-marker { opacity:0; color:#e5ce9f; }
+.voice-track-choice[aria-pressed="true"] .voice-track-marker { opacity:1; }
+.voice-actions { display:flex; flex-direction:column; align-items:center; gap:13px; margin:29px auto 0; }
+.voice-actions .primary-button, .voice-actions .secondary-button { max-width:100%; }
+@media (max-width:640px) {
+  .voice-header h1 { font-size:34px; }
+  .voice-header > p:last-child { font-size:16px; }
+  .voice-card { padding:44px 23px 26px; }
+  .voice-player-well { padding:12px 12px 17px; }
+  .voice-waveform { gap:3px; }
+  .voice-waveform i { width:4px; }
+  .voice-track-title { font-size:27px; }
+  .voice-actions .primary-button { padding:14px 20px; font-size:16px; }
+}
+@media (max-width:350px) {
+  .voice-card { padding-right:17px; padding-left:17px; }
+  .voice-waveform { gap:2px; }
+}
+@media (prefers-reduced-motion:reduce) { .voice-play { transition:none; } }

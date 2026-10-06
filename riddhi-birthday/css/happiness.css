@@ -1,0 +1,94 @@
+.happiness-world { position:relative; isolation:isolate; overflow:hidden; padding-bottom:55px; }
+.happiness-content { position:relative; width:min(100%,880px); margin:auto; }
+.happiness-heading { position:relative; z-index:2; min-height:164px; }
+.happiness-eyebrow { color:#dbcca8; letter-spacing:2.6px; }
+.happiness-heading h1 { max-width:710px; margin:19px auto 17px; font-size:clamp(37px,5.7vw,65px); line-height:1.11; letter-spacing:-1.3px; text-wrap:balance; }
+.happiness-intro { max-width:550px; margin:auto; color:#bdcde7; font-size:18px; line-height:1.7; text-wrap:pretty; }
+.happiness-scene { position:relative; width:min(100%,720px); height:420px; margin:3px auto 0; isolation:isolate; }
+.happiness-horizon { position:absolute; inset:12% -10% 0; background:radial-gradient(ellipse at 50% 80%,#6e86ff1c,transparent 62%); border-radius:50%; opacity:.6; transition:opacity 1s; }
+.happiness-launch-ring { position:absolute; left:50%; bottom:19px; width:200px; height:24px; transform:translateX(-50%); border:1px solid #a5c4ff35; border-radius:50%; background:radial-gradient(ellipse,#88b9ed17,transparent 70%); box-shadow:0 0 32px #82b8f40d; transition:opacity 1s,transform 1s; }
+.happiness-personal-flight { position:absolute; z-index:2; left:calc(50% - 73px); bottom:49px; width:146px; transform-origin:50% 70%; }
+.happiness-personal-sway { position:relative; width:146px; transform-origin:50% 20%; }
+.happiness-candle { position:relative; width:146px; height:187px; overflow:hidden; border:1px solid #d6bb7e9c; border-radius:38% 38% 19% 19% / 18% 18% 14% 14%; background:linear-gradient(90deg,#31619f4d,#adc8f140 48%,#3976bc4d); box-shadow:inset 0 0 28px #bad9ff14,0 12px 36px #020b2350; transition:box-shadow 1.2s,border-color 1.2s; }
+.happiness-candle::before { content:''; position:absolute; z-index:0; inset:0; opacity:0; background:radial-gradient(ellipse at 50% 87%,#ffe59ae0 0,#f1c16970 17%,#68aeec48 46%,#83bafa08 77%); transition:opacity 1.2s; }
+.happiness-candle::after { content:''; position:absolute; left:4%; right:4%; top:-9px; height:29px; border:1px solid #e6c88790; border-radius:50%; background:linear-gradient(#accfff1a,#6d9ade15); }
+.happiness-lantern-rib { position:absolute; z-index:1; top:-5px; bottom:9px; width:37px; border:1px solid #d3e5ff30; border-top:0; border-bottom:0; border-radius:50%; pointer-events:none; }
+.happiness-rib-left { left:11px; }
+.happiness-rib-right { right:11px; }
+.happiness-golden-heart { position:absolute; z-index:2; top:28px; left:calc(50% - 17px); width:34px; color:#e9c378; filter:drop-shadow(0 0 7px #ffcc7640); }
+.happiness-golden-heart svg { width:100%; height:auto; fill:currentColor; }
+.happiness-lantern-name { position:absolute; z-index:2; top:75px; left:8px; right:8px; color:#f3dfb5; font:500 24px/1.1 var(--font-h); text-shadow:0 2px 8px #122147; overflow-wrap:anywhere; }
+.happiness-lantern-note { position:absolute; z-index:2; top:105px; left:4px; right:4px; color:#d4e2fb; font-size:12px; letter-spacing:2px; text-transform:uppercase; }
+.happiness-candle-cup { position:absolute; z-index:2; left:calc(50% - 15px); bottom:14px; width:30px; height:15px; border:1px solid #ddbc7290; border-radius:3px 3px 8px 8px; background:linear-gradient(90deg,#63799c,#c1c9d3,#657899); }
+.happiness-wick { position:absolute; width:2px; height:7px; bottom:14px; left:13px; background:#354462; }
+.happiness-flame { position:absolute; width:13px; height:25px; left:7px; bottom:17px; opacity:0; transform:scale(.3); transform-origin:50% 100%; border-radius:58% 48% 46% 45%; background:radial-gradient(ellipse at 50% 85%,#fff9d5 0,#ffeb9a 42%,#ffaa407d 84%); box-shadow:0 0 13px #ffbb5780,0 0 30px #ffba4d70; transition:opacity .5s,transform .5s; }
+.happiness-lantern-base { position:absolute; left:11%; right:11%; bottom:7px; height:10px; border:1px solid #e6c686b3; border-radius:50%; box-shadow:0 2px 8px #07182d; }
+.happiness-lantern-tassel { display:block; width:1px; height:26px; background:linear-gradient(#edc47f99,#d5b67d50); margin:auto; }
+.happiness-lantern-tassel::after { content:''; position:absolute; width:7px; height:12px; bottom:-4px; left:calc(50% - 3px); border-radius:50% 50% 20% 20%; background:#dbc18a; box-shadow:0 0 9px #ffdf8460; }
+.happiness-constellations { position:absolute; inset:0; opacity:.55; }
+.happiness-constellations span { position:absolute; left:var(--twinkle-x); top:var(--twinkle-y); width:8px; color:#afc9f1; opacity:.5; }
+.happiness-constellations span:nth-child(3n) { width:13px; color:#e9d095; }
+.happiness-constellations svg { width:100%; height:100%; fill:currentColor; }
+.happiness-sky-lights { position:absolute; z-index:1; inset:0 -8%; overflow:hidden; pointer-events:none; }
+.happiness-small-flight { position:absolute; left:var(--light-x); bottom:-65px; opacity:0; transform-origin:50% 80%; }
+.happiness-small-lantern { display:block; position:relative; width:66px; height:88px; border:1px solid #efc58a8c; border-radius:35% 35% 17% 17%; background:radial-gradient(ellipse at 50% 83%,#ffe7a8cf,#e9af666b 35%,#ffc56d17 78%); box-shadow:0 0 24px #ffd7831a; }
+.happiness-small-lantern::before { content:''; position:absolute; left:12%; right:12%; bottom:5px; height:6px; border:1px solid #ffd9a69e; border-radius:50%; }
+.happiness-small-lantern::after { content:''; position:absolute; inset:0 18%; border-left:1px solid #ffe3b32b; border-right:1px solid #ffe3b32b; border-radius:35%; }
+.happiness-small-lantern i { position:absolute; bottom:13px; left:calc(50% - 4px); width:8px; height:13px; background:#fff2c3; border-radius:65% 40% 50% 50%; box-shadow:0 0 12px #ffe491; }
+.happiness-moment { position:relative; z-index:3; margin-top:-4px; min-height:117px; }
+.happiness-light { box-shadow:0 7px 36px #769dfc30,inset 0 1px 0 #ffffff50; }
+.happiness-button-spark { width:19px; height:19px; color:#fff0c4; }
+.happiness-button-spark svg { width:100%; height:100%; fill:currentColor; }
+.happiness-light:disabled { opacity:.6; }
+.happiness-status { color:#d7cfb5; max-width:420px; margin:18px auto 0; font-size:16px; min-height:25px; }
+.happiness-signoff { color:#bacfe9; font-size:17px; }
+.happiness-signer { font:500 29px/1.5 var(--font-h); color:#f2d599; margin:5px 0 20px; }
+.happiness-gift { color:#baceec; font-size:17px; }
+.happiness-actions { position:relative; z-index:3; display:flex; flex-direction:column; gap:13px; align-items:center; margin-top:14px; }
+.happiness-actions .secondary-button { margin:0; }
+.happiness-actions .primary-button { max-width:100%; }
+.happiness-world.is-ready .happiness-constellations span { animation:happiness-twinkle 3.4s ease-in-out var(--twinkle-delay) infinite alternate; }
+.happiness-world.is-lit .happiness-candle { border-color:#f6d98f; box-shadow:inset 0 0 35px #c4dfff26,0 0 30px #b1c8ef35,0 0 70px #f1cd7729; }
+.happiness-world.is-lit .happiness-candle::before { opacity:1; }
+.happiness-world.is-lit .happiness-flame { opacity:1; transform:scale(1); }
+.happiness-world.is-lit .happiness-horizon { opacity:1; }
+.happiness-world.is-released .happiness-personal-flight { animation:happiness-personal-rise 4.8s cubic-bezier(.3,.02,.22,1) both; }
+.happiness-world.is-released .happiness-personal-sway { animation:happiness-lantern-sway 3s ease-in-out infinite alternate; }
+.happiness-world.is-released .happiness-small-flight { animation:happiness-little-rise 6.3s ease-out var(--light-delay) both; }
+.happiness-world.is-released .happiness-launch-ring { opacity:0; transform:translateX(-50%) scale(.65); }
+.happiness-world.is-finished .happiness-heading h1 { color:#e5f2ff; text-shadow:0 0 42px #8cacfa40; }
+.happiness-world.is-finished .happiness-signoff { animation:happiness-greeting-in .85s ease both; }
+.happiness-world.happiness-paused *, .happiness-world:not(.is-ready) * { animation-play-state:paused !important; }
+@keyframes happiness-personal-rise { from { transform:translateY(0) scale(1); } to { transform:translateY(-190px) scale(.76); } }
+@keyframes happiness-little-rise { 0% { opacity:0; transform:translateY(0) scale(var(--light-scale)) rotate(var(--light-turn)); } 20% { opacity:.7; } 100% { opacity:.58; transform:translateY(calc(-1 * var(--light-rise))) scale(var(--light-scale)) rotate(calc(-1 * var(--light-turn))); } }
+@keyframes happiness-lantern-sway { from { transform:rotate(-2.5deg); } to { transform:rotate(2.5deg); } }
+@keyframes happiness-twinkle { from { opacity:.25; transform:scale(.85); } to { opacity:.9; transform:scale(1.12); } }
+@keyframes happiness-greeting-in { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+@media (max-width:640px) {
+  .happiness-world { padding-bottom:35px; }
+  .happiness-eyebrow { font-size:13px; letter-spacing:1.8px; }
+  .happiness-heading { min-height:210px; }
+  .happiness-heading h1 { max-width:450px; margin:16px auto 15px; font-size:clamp(36px,9vw,49px); }
+  .happiness-intro { font-size:17px; max-width:360px; }
+  .happiness-scene { height:345px; margin-top:0; }
+  .happiness-personal-flight { bottom:31px; }
+  .happiness-launch-ring { bottom:4px; width:180px; }
+  .happiness-world.is-released .happiness-personal-flight { animation-name:happiness-personal-rise-mobile; }
+  .happiness-small-lantern { width:51px; height:71px; }
+  .happiness-sky-lights { inset:0 -6%; }
+  .happiness-moment { margin-top:3px; }
+  .happiness-status { max-width:290px; }
+  .happiness-light { padding:14px 25px; }
+}
+@keyframes happiness-personal-rise-mobile { from { transform:translateY(0) scale(1); } to { transform:translateY(-139px) scale(.68); } }
+.happiness-world.happiness-reduced .happiness-constellations span, .happiness-world.happiness-reduced .happiness-personal-sway, .happiness-world.happiness-reduced .happiness-signoff { animation:none; }
+.happiness-world.happiness-reduced .happiness-candle, .happiness-world.happiness-reduced .happiness-candle::before, .happiness-world.happiness-reduced .happiness-flame, .happiness-world.happiness-reduced .happiness-horizon, .happiness-world.happiness-reduced .happiness-launch-ring { transition:none; }
+.happiness-world.happiness-reduced.is-released .happiness-personal-flight { animation:none; transform:translateY(-155px) scale(.76); }
+.happiness-world.happiness-reduced.is-released .happiness-small-flight { animation:none; top:var(--light-rest); bottom:auto; opacity:.48; transform:scale(var(--light-scale)) rotate(var(--light-turn)); }
+@media (max-width:640px) {
+  .happiness-world.happiness-reduced.is-released .happiness-personal-flight { transform:translateY(-115px) scale(.68); }
+}
+@media (prefers-reduced-motion:reduce) {
+  .happiness-world .happiness-constellations span, .happiness-world .happiness-personal-sway, .happiness-world .happiness-signoff { animation:none; }
+  .happiness-world .happiness-candle, .happiness-world .happiness-candle::before, .happiness-world .happiness-flame, .happiness-world .happiness-horizon, .happiness-world .happiness-launch-ring { transition:none; }
+}

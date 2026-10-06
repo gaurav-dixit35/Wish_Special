@@ -1,0 +1,76 @@
+/* A quiet page of warm paper with the birthday sky still visible through it. */
+.letter-content { width:min(100%,790px); margin:0 auto; }
+.letter-header { max-width:590px; margin:0 auto; }
+.letter-header h1 { margin:15px 0 13px; color:#f0e6ef; font-size:clamp(34px,5.4vw,47px); line-height:1.13; letter-spacing:-.65px; }
+.letter-header > p:last-child { max-width:490px; margin:0 auto; color:#b6c7e0; font-size:18px; line-height:1.6; }
+.letter-reading-tools { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px 16px; width:min(100%,690px); margin:30px auto 13px; padding:0 2px; text-align:left; }
+.letter-reading-tools > p { flex:1 1 220px; color:#b4c3dc; font-size:16px; }
+.letter-reading-tools .letter-finish { flex:0 1 auto; margin:0; min-height:48px; padding:10px 18px; border:1px solid #d0c3ad40; color:#ead6ad; background:#d9b5770a; font-size:16px; }
+.letter-finish[aria-disabled="true"] { color:#bac9df; cursor:default; }
+.letter-paper { position:relative; width:min(100%,690px); margin:0 auto; padding:34px 49px 55px; text-align:left; border-color:#efd29d63; border-radius:7px 24px 9px 23px; background:radial-gradient(ellipse at 0 4%,#f6d4a81b,transparent 63%),linear-gradient(135deg,#6a5c6336,#c4a77515 58%,#7596c31a); box-shadow:0 24px 64px #02081745,inset 0 0 70px #eacb9420; }
+.letter-paper::before { content:''; position:absolute; inset:9px; border:1px solid #ecd8aa17; border-radius:2px 17px 3px 16px; pointer-events:none; }
+.letter-paper-top, .letter-paper-bottom { display:flex; align-items:center; gap:16px; color:#cbb795; font-size:23px; }
+.letter-paper-top { margin-bottom:31px; }
+.letter-paper-rule { flex:1; height:1px; background:linear-gradient(90deg,#e9cf9952,#e9cf9909); }
+.letter-paper-heart { font-size:28px; line-height:1; }
+.letter-tiny-star { font-size:23px; }
+.letter-body { position:relative; color:#ede3d4; font-family:var(--font-b); font-size:19px; line-height:1.9; letter-spacing:.04px; overflow-wrap:anywhere; -webkit-user-select:text; user-select:text; }
+.letter-line, .letter-signature { display:grid; grid-template-columns:minmax(0,1fr); }
+.letter-line > span, .letter-signature > span { grid-area:1/1; min-width:0; white-space:pre-wrap; }
+.letter-line-reserve, .letter-signature-reserve { visibility:hidden; }
+.letter-line-gap { min-height:20px; line-height:1.05; }
+.letter-line.is-heading { font-weight:600; }
+.letter-line.is-signature { color:var(--gold); font-family:var(--font-h); font-size:23px; font-weight:500; line-height:1.65; }
+.letter-line.is-signature .letter-line-copy { opacity:0; transition:opacity 1.05s ease; }
+.letter-line.is-signature .letter-line-copy.is-revealed { opacity:1; }
+.letter-line.is-postscript { font-style:italic; font-size:.92em; color:#d4c7be; }
+.letter-line:first-child { margin-bottom:6px; color:#f5e7d1; font-family:var(--font-h); font-size:29px; line-height:1.5; }
+.letter-cursor { display:inline; margin-left:1px; color:#f7db9f; font-size:1em; line-height:0; animation:letter-cursor-blink 1s steps(1,end) infinite; }
+.letter-signature { margin-top:17px; color:var(--gold); font-family:var(--font-h); font-size:23px; line-height:1.65; }
+.letter-signature-copy { opacity:0; }
+.letter-paper-bottom { margin-top:32px; margin-right:80px; font-size:17px; }
+.letter-dog-mount { position:absolute; right:20px; bottom:-23px; width:114px; height:100px; }
+.birthday-dog.letter-guide { width:114px; height:100px; }
+.letter-guide .dog-movement { position:absolute; width:110px; height:83px; bottom:0; transform-origin:50% 90%; }
+.birthday-dog.letter-guide[data-mood="idle"] .dog-movement { animation:letter-dog-breathe 4.3s ease-in-out infinite; }
+.letter-guide .dog-movement::before { content:''; position:absolute; left:22px; bottom:9px; width:84px; height:59px; border:1px solid #edc191; border-radius:58% 56% 48% 51%; background:radial-gradient(ellipse at 35% 25%,#f1cb9c,#c8916d 73%); box-shadow:inset -8px -7px 0 #88594531,0 8px 15px #090c2038; }
+.letter-guide .dog-movement::after { content:''; position:absolute; right:5px; bottom:15px; width:48px; height:38px; border:10px solid #edc599; border-top-color:transparent; border-radius:50%; transform:rotate(25deg); pointer-events:none; }
+.letter-guide .dog-wobble { position:absolute; left:0; bottom:8px; z-index:1; width:65px; transform:rotate(-17deg); animation:none; }
+.letter-guide .dog-avatar { border-radius:45%; box-shadow:inset 0 1px 1px #fff6,0 3px 5px #271b2330; }
+.letter-guide .dog-placeholder { font-size:49px; }
+.letter-guide.has-guide-art .dog-movement::before, .letter-guide.has-guide-art .dog-movement::after { display:none; }
+.letter-guide.has-guide-art .dog-wobble { width:114px; left:0; bottom:-8px; transform:none; }
+.letter-guide.has-guide-art .dog-avatar { box-shadow:none; }
+.letter-guide .dog-nose { top:43%; }
+.letter-guide .guide-speech { left:auto; right:0; transform:none; bottom:calc(100% + 15px); }
+.letter-guide .guide-speech::after { left:auto; right:40px; }
+.letter-guide .letter-dog-dream { position:absolute; right:1px; top:0; color:#d1c7e0; font-family:var(--font-h); font-size:19px; transform:rotate(10deg); animation:letter-dog-dream 4.3s ease-in-out infinite; }
+.letter-actions { display:grid; justify-items:center; gap:6px; margin:61px auto 8px; }
+.letter-actions button { max-width:100%; }
+.letter-actions .primary-button { padding:15px 29px; }
+@keyframes letter-cursor-blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+@keyframes letter-dog-breathe { 0%,100% { transform:scale(1); } 50% { transform:scale(1.025,.985); } }
+@keyframes letter-dog-dream { 0%,100% { opacity:.35; transform:translateY(2px) rotate(10deg); } 50% { opacity:.8; transform:translateY(-5px) rotate(10deg); } }
+@media (max-width:640px) {
+  .letter-header .eyebrow { font-size:16px; letter-spacing:.8px; }
+  .letter-header h1 { font-size:34px; }
+  .letter-header > p:last-child { font-size:16px; }
+  .letter-reading-tools { display:grid; justify-items:center; text-align:center; margin-top:25px; gap:10px; }
+  .letter-paper { padding:24px 23px 46px; }
+  .letter-paper-top { margin-bottom:23px; }
+  .letter-body { font-size:17px; line-height:1.85; }
+  .letter-line:first-child { font-size:27px; }
+  .letter-line-gap { min-height:20px; }
+  .letter-signature { font-size:22px; }
+  .letter-dog-mount { right:15px; }
+  .letter-actions { margin-top:58px; }
+  .letter-actions .primary-button { font-size:16px; padding:14px 24px; }
+}
+@media (max-width:350px) {
+  .letter-paper { padding-left:19px; padding-right:19px; }
+  .letter-body { font-size:16px; }
+}
+@media (prefers-reduced-motion:reduce) {
+  .letter-line.is-signature .letter-line-copy { transition:none; }
+  .letter-cursor, .letter-guide .dog-movement, .letter-guide .letter-dog-dream { animation:none !important; }
+}

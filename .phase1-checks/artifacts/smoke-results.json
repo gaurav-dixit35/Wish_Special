@@ -1,0 +1,197 @@
+{
+  "baseURL": "http://127.0.0.1:4173",
+  "ranAt": "2026-10-01T22:25:01.915Z",
+  "results": [
+    {
+      "name": "Lock, third/sixth dog taps, and sound control",
+      "passed": true,
+      "milliseconds": 1712,
+      "detail": {
+        "layout": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scrollWidth": 390,
+          "buttons": [
+            {
+              "id": "sound-toggle",
+              "width": 49,
+              "height": 48
+            },
+            {
+              "id": "dog-button",
+              "width": 235,
+              "height": 134
+            },
+            {
+              "id": "begin-button",
+              "width": 232.859375,
+              "height": 57.890625
+            }
+          ]
+        },
+        "warnings": 36
+      }
+    },
+    {
+      "name": "Preview loader minimum duration, ready state, and replay",
+      "passed": true,
+      "milliseconds": 10673,
+      "detail": {
+        "timing": {
+          "firstVisible": 1349.6000000014901,
+          "readyVisible": 5105.5
+        },
+        "layout": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scrollWidth": 390,
+          "buttons": [
+            {
+              "id": "sound-toggle",
+              "width": 49,
+              "height": 48
+            },
+            {
+              "id": "loader-replay",
+              "width": 223.6875,
+              "height": 48
+            }
+          ]
+        },
+        "warnings": 36
+      }
+    },
+    {
+      "name": "Mobile and desktop layout/screenshots",
+      "passed": true,
+      "milliseconds": 3522,
+      "detail": [
+        {
+          "viewport": {
+            "width": 360,
+            "height": 640
+          },
+          "scrollWidth": 360,
+          "buttons": [
+            {
+              "id": "sound-toggle",
+              "width": 49,
+              "height": 48
+            },
+            {
+              "id": "dog-button",
+              "width": 178,
+              "height": 102
+            },
+            {
+              "id": "begin-button",
+              "width": 232.859375,
+              "height": 57.890625
+            }
+          ]
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scrollWidth": 390,
+          "buttons": [
+            {
+              "id": "sound-toggle",
+              "width": 49,
+              "height": 48
+            },
+            {
+              "id": "dog-button",
+              "width": 235,
+              "height": 134
+            },
+            {
+              "id": "begin-button",
+              "width": 232.859375,
+              "height": 57.890625
+            }
+          ]
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scrollWidth": 1425,
+          "buttons": [
+            {
+              "id": "sound-toggle",
+              "width": 136.484375,
+              "height": 48
+            },
+            {
+              "id": "dog-button",
+              "width": 258,
+              "height": 147
+            },
+            {
+              "id": "begin-button",
+              "width": 232.859375,
+              "height": 57.890625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Date boundary unlock automatically enters loader",
+      "passed": true,
+      "milliseconds": 7635,
+      "detail": {
+        "automaticUnlock": true,
+        "warnings": 36
+      }
+    },
+    {
+      "name": "Blocked localStorage remains nonfatal",
+      "passed": true,
+      "milliseconds": 5582,
+      "detail": {
+        "warnings": 36
+      }
+    },
+    {
+      "name": "Blocked optional CDNs and reduced-motion fallback",
+      "passed": true,
+      "milliseconds": 3669,
+      "detail": {
+        "layout": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scrollWidth": 390,
+          "buttons": [
+            {
+              "id": "sound-toggle",
+              "width": 49,
+              "height": 48
+            },
+            {
+              "id": "loader-begin",
+              "width": 238.609375,
+              "height": 57.890625
+            },
+            {
+              "id": "loader-replay",
+              "width": 220.5625,
+              "height": 48
+            }
+          ]
+        },
+        "warnings": 38
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+:root {
+  --bg-0:#050b1f; --bg-1:#0a1840; --bg-2:#10265f;
+  --blue:#4da3ff; --sky:#9fd0ff; --ice:#e8f3ff;
+  --aurora-g:#3dffb0; --aurora-t:#2bd6e8; --aurora-v:#8f6bff;
+  --gold:#ffd36b; --pink:#ff7eb6; --danger:#ff6b6b;
+  --card:rgba(255,255,255,.08); --card-border:rgba(255,255,255,.18);
+  --radius:22px; --glow:0 0 24px rgba(77,163,255,.55);
+  --font-h:'Fredoka',system-ui,sans-serif; --font-b:'Nunito',system-ui,sans-serif;
+  --muted:#adbcd8; --soft:#8297bd; --page-width:1240px;
+}
